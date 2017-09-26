@@ -1,0 +1,3 @@
+[submodule "email-tracking-tester"]
+	path = email-tracking-tester
+	url = git@github.com:citp/email-tracking-tester.git

@@ -1,0 +1,2988 @@
+[
+	{
+		"organization"	:	"33 Across",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"33across.com",
+			"tynt.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"360",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"360.cn",
+			"qhimg.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"51yes",
+		"notes"			:	"homepage @ http://count.51yes.com/",
+		"country"		:	"CN",
+		"domains"		:	[
+			"51yes.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Accuweather",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"accuweather.com",
+			"skymotion.com"
+		],
+		"subsidiaries"	:	[
+			"SkyMotion"
+		]
+	},
+	{
+		"organization"	:	"Actua",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"actua.com",
+			"govdelivery.com"
+		],
+		"subsidiaries"	:	[
+			"GovDelivery"
+		]
+	},
+	{
+		"organization"	:	"Acxiom",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"acxiom-online.com",
+			"acxiom.com",
+			"liveramp.com",
+			"rlcdn.com",
+			"pippio.com"
+		],
+		"subsidiaries"	:	[
+			"LiveRamp",
+			"Arbor"
+		]
+	},
+	{
+		"organization"	:	"AdBrain",
+		"notes"			:	"",
+		"country"		:	"UK",
+		"domains"		:	[
+			"adbrain.com",
+			"adbrn.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"AdChina",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"acs86.com",
+			"adchina.com",
+			"csbew.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"AdForm",
+		"notes"			:	"",
+		"country"		:	"DK",
+		"domains"		:	[
+			"adform.com",
+			"adform.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Adition Technologies",
+		"notes"			:	"",
+		"country"		:	"DE",
+		"domains"		:	[
+			"adition.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"AdMaster",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"admaster.com.cn",
+			"cdnmaster.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Adobe",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"2o7.net",
+			"adobe.com",
+			"adobetag.com",
+			"demdex.net",
+			"everestads.net",
+			"everestjs.net",
+			"everesttech.net",
+			"omtrdc.net",
+			"typekit.com",
+			"typekit.net"
+		],
+		"subsidiaries"	:	[
+			"Typekit"
+		]
+	},
+	{
+		"organization"	:	"AdRoll",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"adroll.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"AdSame",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"adsame.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"AdScale",
+		"notes"			:	"",
+		"country"		:	"DE",
+		"domains"		:	[
+			"adscale.de"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"AdSocial",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"adsocial.cn",
+			"jiathis.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"AFCV Holdings",
+		"notes"			:	"Acquired Answers, which had previously acquired ForeSee",
+		"country"		:	"US",
+		"domains"		:	[
+			"4seeresults.com",
+			"afcv.com",
+			"answers.com",
+			"answerscloud.com",
+			"dsply.com",
+			"foresee.com",
+			"webcollage.com"
+		],
+		"subsidiaries"	:	[
+			"Answers Corporation",
+			"ForeSee",
+			"Webcollage"
+		]
+	},
+	{
+		"organization"	:	"Ajiang",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"51.la",
+			"ajiang.net",
+			"ajstat.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Akamai",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"abmr.net",
+			"akamai.com",
+			"akamai.net",
+			"akamaihd.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Alibaba",
+		"notes"			:	"Purchased HiChina in 2009; cr-nielsen.com seems to be joint venture, but whois record goes to hichina",
+		"country"		:	"CN",
+		"domains"		:	[
+			"360buyimg.com",
+			"alibaba.com",
+			"alicdn.com",
+			"aliexpress.com",
+			"aliimg.com",
+			"alimama.cn",
+			"alimama.com",
+			"alipay.com",
+			"alipayobjects.com",
+			"aliunicorn.com",
+			"aliyun.com",
+			"aliyuncdn.com",
+			"aliyuncs.com",
+			"atpanel.com",
+			"cnzz.com",
+			"cnzz.net",
+			"cr-nielsen.com",
+			"hichina.com",
+			"hichinaimg.com",
+			"iqiyi.com",
+			"linezing.com",
+			"mmcdn.cn",
+			"mmstat.com",
+			"ppsimg.com",
+			"tanx.com",
+			"taobao.com",
+			"taobaocdn.com",
+			"tbcdn.cn",
+			"xiami.net",
+			"ykimg.com"
+		],
+		"subsidiaries"	:	[
+			"HiChina"
+		]
+	},
+	{
+		"organization"	:	"All Yes",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"allyes.com",
+			"allyes.com.cn",
+			"qtmojo.cn",
+			"qtmojo.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"AllMobilize",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"allmobilize.com",
+			"yunshipei.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Amazon",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"alexa.com",
+			"amazon-adsystem.com",
+			"amazon.com",
+			"amazonaws.com",
+			"cloudfront.net",
+			"images-amazon.com",
+			"ssl-images-amazon.com"
+		],
+		"subsidiaries"	:	[
+			"Alexa"
+		]
+	},
+	{
+		"organization"	:	"Anquan",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"anquan.org"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"AOL",
+		"notes"			:	"Convertro acquired 2014, also owns Gravity Insights",
+		"country"		:	"US",
+		"domains"		:	[
+			"adap.tv",
+			"adtech.de",
+			"adtechus.com",
+			"advertising.com",
+			"aol.com",
+			"aolcdn.com",
+			"aolcdn.com",
+			"atwola.com",
+			"blogcdn.com",
+			"convertro.com",
+			"gravity.com",
+			"grvcdn.com",
+			"huffpost.com"
+		],
+		"subsidiaries"	:	[
+			"Convertro",
+			"Gravity Insights"
+		]
+	},
+	{
+		"organization"	:	"Apple",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"apple.com",
+			"mzstatic.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"AppNexus",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"247realmedia.com",
+			"adnxs.com",
+			"appnexus.com",
+			"xaxis.com"
+		],
+		"subsidiaries"	:	[
+			"Xaxis"
+		]
+	},
+	{
+		"organization"	:	"Audience Science",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"audiencescience.com",
+			"revsci.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Autohome",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"autohome.com.cn",
+			"autoimg.cn"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Automattic",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"gravatar.com",
+			"wordpress.com",
+			"wp.com",
+			"wordpress.org",
+			"w.org"
+		],
+		"subsidiaries"	:	[
+			"Wordpress"
+		]
+	},
+	{
+		"organization"	:	"Baidu",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"baidu.com",
+			"baidustatic.com",
+			"bdimg.com",
+			"bdstatic.com",
+			"cnmo-img.com.cn",
+			"hao123.com",
+			"hao123img.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Baifendian",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"baifendian.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"BEHE Adtech Solution",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"behe.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Beijing Cloudwise Technology",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"jiankongbao.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Beijing Emar Online Technology",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"emarbox.com",
+			"yigao.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Beijing OptAim Technology",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"optaim.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Bertelsmann",
+		"notes"			:	"Adality is 100% owned subsidiary of Bertelsmann per http://www.bertelsmann.com/media/investor-relations/sonst.-downloads/anteile-bertelsmann-31-dezember-2015.pdf",
+		"country"		:	"DE",
+		"domains"		:	[
+			"adality.de",
+			"adrtx.net",
+			"bertelsmann.de"
+		],
+		"subsidiaries"	:	[
+			"Adality"
+		]
+	},
+	{
+		"organization"	:	"Blinkx",
+		"notes"			:	"Owns many properties, this could likely be greatly expanded with detective work.",
+		"country"		:	"US",
+		"domains"		:	[
+			"1rx.io",
+			"adkarma.com",
+			"blinkx.com",
+			"burstmedia.com",
+			"burstnet.com",
+			"rhythmone.com",
+			"rhythmxchange.com"
+		],
+		"subsidiaries"	:	[
+			"AdKarma",
+			"RhythmOne"
+		]
+	},
+	{
+		"organization"	:	"BloomReach",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"brsrvr.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Brightcove",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"brightcove.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"CallRail",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"callrail.com",
+			"calltrk.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Casale Media",
+		"notes"			:	"",
+		"country"		:	"CA",
+		"domains"		:	[
+			"casalemedia.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"CBS Corporation",
+		"notes"			:	"Has Interactive division",
+		"country"		:	"US",
+		"domains"		:	[
+			"cbs.com",
+			"cbsi.com.cn",
+			"cbsinteractive.com",
+			"cnet.com.cn",
+			"gamespot.com.cn",
+			"ol-img.com",
+			"onlylady.com",
+			"pchome.net",
+			"xcarimg.com",
+			"zol-img.com.cn",
+			"zol.com.cn"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Centro",
+		"notes"			:	"brand-server.com per cookiepedia, was very difficult to find info on!",
+		"country"		:	"US",
+		"domains"		:	[
+			"brand-server.com",
+			"centro.net",
+			"sitescout.com",
+			"sitescout.net"
+		],
+		"subsidiaries"	:	[
+			"SiteScout"
+		]
+	},
+	{
+		"organization"	:	"Certona",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"res-x.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Chango",
+		"notes"			:	"",
+		"country"		:	"CA",
+		"domains"		:	[
+			"chango.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Chartbeat",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"chartbeat.com",
+			"chartbeat.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"China InterActive",
+		"notes"			:	"Owner of renren",
+		"country"		:	"CN",
+		"domains"		:	[
+			"56img.com",
+			"renren.com",
+			"v-56.com"
+		],
+		"subsidiaries"	:	[
+			"Ren Ren"
+		]
+	},
+	{
+		"organization"	:	"Chitika",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"chitika.com",
+			"chitika.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Cloudflare",
+		"notes"			:	"CDN",
+		"country"		:	"US",
+		"domains"		:	[
+			"cloudflare.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"CNIC",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"124.17.1.253",
+			"cnnic.cn"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"CNISP",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"cnisp.org.cn"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Collective",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"collective-media.net",
+			"collective.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Comcast",
+		"notes"			:	"See crunchbase for more info re: aquisition freewheel/stickyadstv",
+		"country"		:	"US",
+		"domains"		:	[
+			"comcast.com",
+			"freewheel.tv",
+			"stickyadstv.com"
+		],
+		"subsidiaries"	:	[
+			"FreeWheel",
+			"StickyADS.tv"
+		]
+	},
+	{
+		"organization"	:	"Community Health Systems",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"chs.net",
+			"g2gtoolkit.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"comScore",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"comscore.com",
+			"fullcirclestudies.com",
+			"scorecardresearch.com",
+			"voicefive.com"
+		],
+		"subsidiaries"	:	[
+			"Full Circle Studies",
+			"ScorecardResearch",
+			"VoiceFive"
+		]
+	},
+	{
+		"organization"	:	"Conversant Media",
+		"notes"			:	"Valueclick/Mediaplex is now 'Conversant'",
+		"country"		:	"US",
+		"domains"		:	[
+			"conversantmedia.com",
+			"dotomi.com",
+			"fastclick.net",
+			"mediaplex.com",
+			"valueclick.com"
+		],
+		"subsidiaries"	:	[
+			"Dotomi",
+			"FastClick",
+			"Mediaplex",
+			"Valueclick"
+		]
+	},
+	{
+		"organization"	:	"CoxReps",
+		"notes"			:	"As of 20161026 adify.com appears dead",
+		"country"		:	"US",
+		"domains"		:	[
+			"adify.com",
+			"afy11.net",
+			"coxdigitalsolutions.com",
+			"coxreps.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Crazy Egg",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"crazyegg.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Criteo",
+		"notes"			:	"",
+		"country"		:	"FR",
+		"domains"		:	[
+			"criteo.com",
+			"criteo.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Datalogix",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"datalogix.com",
+			"nexac.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"DataXu",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"dataxu.com",
+			"w55c.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Demandbase",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"company-target.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Deutsche Telekom",
+		"notes"			:	"D-T is the parent of Emetriq",
+		"country"		:	"DE",
+		"domains"		:	[
+			"emetriq.de",
+			"telekom.com",
+			"telekom.de",
+			"xplosion.de"
+		],
+		"subsidiaries"	:	[
+			"emetriq",
+			"xplosion interactive"
+		]
+	},
+	{
+		"organization"	:	"Digilant",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"wtp101.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Disqus",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"disqus.com",
+			"disquscdn.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Double Verify",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"doubleverify.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Dratio",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"dratio.com",
+			"wrating.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Drawbridge",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"adsymptotic.com",
+			"drawbrid.ge"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Drugsite Trust",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"ddccdn.com",
+			"drugs.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Dstillery",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"dstillery.com",
+			"media6degrees.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Dynadmic",
+		"notes"			:	"",
+		"country"		:	"FR",
+		"domains"		:	[
+			"dynadmic.com",
+			"dyntrk.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Ebix",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"adam.com",
+			"ebix.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Emar Box",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"emarbox.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Ensighten",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"ensighten.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Equifax",
+		"notes"			:	"Data broker",
+		"country"		:	"US",
+		"domains"		:	[
+			"equifax.com",
+			"ixiaa.com",
+			"ixicorp.com"
+		],
+		"subsidiaries"	:	[
+			"IXI Corporation"
+		]
+	},
+	{
+		"organization"	:	"etracker",
+		"notes"			:	"",
+		"country"		:	"DE",
+		"domains"		:	[
+			"etracker.com",
+			"etracker.de"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Evidon",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"betrad.com",
+			"evidon.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Experian",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"audienceiq.com",
+			"consumerinfo.com",
+			"experian.com",
+			"experiandirect.com"
+		],
+		"subsidiaries"	:	[
+			"AudienceIQ"
+		]
+	},
+	{
+		"organization"	:	"Exponential Advertising Intelligence",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"adotube.com",
+			"exponential.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Extreme Reach",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"dgit.com",
+			"extremereach.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Facebook",
+		"notes"			:	"liverail.com is an acquisition / 2014",
+		"country"		:	"US",
+		"domains"		:	[
+			"atdmt.com",
+			"facebook.com",
+			"facebook.net",
+			"fbcdn.com",
+			"fbcdn.net",
+			"liverail.com",
+			"lrcdn.net"
+		],
+		"subsidiaries"	:	[
+			"LiveRail"
+		]
+	},
+	{
+		"organization"	:	"Farlex",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"farlex.com",
+			"tfd.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Fast Health",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"fasthealth.com",
+			"helenkeller.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Federated Media",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"federatedmedia.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Flipp",
+		"notes"			:	"",
+		"country"		:	"CA",
+		"domains"		:	[
+			"circularhub.com",
+			"flipp.com",
+			"wishabi.com",
+			"wishabi.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Gannett",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"gannett.com",
+			"pointroll.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Gemius",
+		"notes"			:	"",
+		"country"		:	"PL",
+		"domains"		:	[
+			"gemius.com",
+			"gemius.pl"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Gigya",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"gigya.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Google",
+		"notes"			:	"based off of https://en.wikipedia.org/wiki/List_of_Google_domains and manual detection",
+		"country"		:	"US",
+		"domains"		:	[
+			"1e100.net",
+			"2mdn.net",
+			"466453.com",
+			"admeld.com",
+			"adometry.com",
+			"adsense.com",
+			"adwords.com",
+			"android.com",
+			"blogblog.com",
+			"blogger.com",
+			"blogspot.com",
+			"blogspot.de",
+			"chromium.org",
+			"dmtry.com",
+			"doubleclick.com",
+			"doubleclick.net",
+			"feedburner.com",
+			"froogle.com",
+			"g.cn",
+			"g.co",
+			"ggpht.com",
+			"gmail.com",
+			"gogle.com",
+			"gogole.com",
+			"goo.gl",
+			"googel.com",
+			"googil.com",
+			"google-analytics.com",
+			"google.ac",
+			"google.ad",
+			"google.ae",
+			"google.al",
+			"google.am",
+			"google.as",
+			"google.at",
+			"google.az",
+			"google.ba",
+			"google.be",
+			"google.bf",
+			"google.bg",
+			"google.bi",
+			"google.bj",
+			"google.bs",
+			"google.bt",
+			"google.by",
+			"google.ca",
+			"google.cat",
+			"google.cc",
+			"google.cd",
+			"google.cf",
+			"google.cg",
+			"google.ch",
+			"google.ci",
+			"google.cl",
+			"google.cm",
+			"google.cn",
+			"google.co.ao",
+			"google.co.bw",
+			"google.co.ck",
+			"google.co.cr",
+			"google.co.id",
+			"google.co.il",
+			"google.co.in",
+			"google.co.jp",
+			"google.co.ke",
+			"google.co.kr",
+			"google.co.ls",
+			"google.co.ma",
+			"google.co.mz",
+			"google.co.nz",
+			"google.co.th",
+			"google.co.tz",
+			"google.co.ug",
+			"google.co.uk",
+			"google.co.uz",
+			"google.co.ve",
+			"google.co.vi",
+			"google.co.za",
+			"google.co.zm",
+			"google.co.zw",
+			"google.com",
+			"google.com.af",
+			"google.com.ag",
+			"google.com.ai",
+			"google.com.ar",
+			"google.com.au",
+			"google.com.bd",
+			"google.com.bh",
+			"google.com.bn",
+			"google.com.bo",
+			"google.com.br",
+			"google.com.bz",
+			"google.com.co",
+			"google.com.cu",
+			"google.com.cy",
+			"google.com.do",
+			"google.com.ec",
+			"google.com.eg",
+			"google.com.et",
+			"google.com.fj",
+			"google.com.gh",
+			"google.com.gi",
+			"google.com.gt",
+			"google.com.hk",
+			"google.com.jm",
+			"google.com.kh",
+			"google.com.kw",
+			"google.com.lb",
+			"google.com.lc",
+			"google.com.ly",
+			"google.com.mm",
+			"google.com.mt",
+			"google.com.mx",
+			"google.com.my",
+			"google.com.na",
+			"google.com.nf",
+			"google.com.ng",
+			"google.com.ni",
+			"google.com.np",
+			"google.com.om",
+			"google.com.pa",
+			"google.com.pe",
+			"google.com.pg",
+			"google.com.ph",
+			"google.com.pk",
+			"google.com.pr",
+			"google.com.py",
+			"google.com.qa",
+			"google.com.sa",
+			"google.com.sb",
+			"google.com.sg",
+			"google.com.sl",
+			"google.com.sv",
+			"google.com.tj",
+			"google.com.tn",
+			"google.com.tr",
+			"google.com.tw",
+			"google.com.ua",
+			"google.com.uy",
+			"google.com.vc",
+			"google.com.vn",
+			"google.cv",
+			"google.cz",
+			"google.de",
+			"google.dj",
+			"google.dk",
+			"google.dm",
+			"google.dz",
+			"google.ee",
+			"google.es",
+			"google.fi",
+			"google.fm",
+			"google.fr",
+			"google.ga",
+			"google.ge",
+			"google.gf",
+			"google.gg",
+			"google.gl",
+			"google.gm",
+			"google.gp",
+			"google.gr",
+			"google.gy",
+			"google.hn",
+			"google.hr",
+			"google.ht",
+			"google.hu",
+			"google.ie",
+			"google.im",
+			"google.io",
+			"google.iq",
+			"google.ir",
+			"google.is",
+			"google.it",
+			"google.je",
+			"google.jo",
+			"google.kg",
+			"google.ki",
+			"google.kz",
+			"google.la",
+			"google.li",
+			"google.lk",
+			"google.lt",
+			"google.lu",
+			"google.lv",
+			"google.md",
+			"google.me",
+			"google.mg",
+			"google.mk",
+			"google.ml",
+			"google.mn",
+			"google.ms",
+			"google.mu",
+			"google.mv",
+			"google.mw",
+			"google.ne",
+			"google.net",
+			"google.nl",
+			"google.no",
+			"google.nr",
+			"google.nu",
+			"google.org",
+			"google.pl",
+			"google.pn",
+			"google.ps",
+			"google.pt",
+			"google.ro",
+			"google.rs",
+			"google.ru",
+			"google.rw",
+			"google.sc",
+			"google.se",
+			"google.sh",
+			"google.si",
+			"google.sk",
+			"google.sm",
+			"google.sn",
+			"google.so",
+			"google.st",
+			"google.td",
+			"google.tg",
+			"google.tk",
+			"google.tl",
+			"google.tm",
+			"google.tn",
+			"google.to",
+			"google.tt",
+			"google.us",
+			"google.vg",
+			"google.vu",
+			"google.ws",
+			"google.xxx",
+			"googleadservices.com",
+			"googleadsserving.cn",
+			"googleapis.com",
+			"googleapps.com",
+			"googlebot.com",
+			"googlecommerce.com",
+			"googledrive.com",
+			"googleratings.com",
+			"googlesyndication.com",
+			"googletagmanager.com",
+			"googletagservices.com",
+			"googleusercontent.com",
+			"googlr.com",
+			"goolge.com",
+			"gooogle.com",
+			"gstatic.com",
+			"gtempaccount.com",
+			"igoogle.com",
+			"invitemedia.com",
+			"keyhole.com",
+			"like.com",
+			"panoramio.com",
+			"picasa.com",
+			"urchin.com",
+			"waze.com",
+			"youtu.be",
+			"youtube.com",
+			"youtubeeducation.com",
+			"ytimg.com",
+			"googlevideo.com",
+			"ajax.googleapis.com",
+			"translate.googleapis.com",
+			"fonts.googleapis.com",
+			"maps.googleapis.com",
+			"storage.googleapis.com",
+			"imasdk.googleapis.com",
+			"pubsub.googleapis.com",
+			"commondatastorage.googleapis.com"
+		],
+		"subsidiaries"	:	[
+			"AdSense",
+			"AdWords",
+			"Admeld",
+			"Blogger",
+			"DoubleClick",
+			"Youtube",
+			"invitemedia"
+		]
+	},
+	{
+		"organization"	:	"Gridsum",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"gridsum.com",
+			"gridsumdissector.com",
+			"webdissector.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"hdtMEDIA",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"hdtmedia.com",
+			"icast.cn"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Health Grades",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"bettermedicine.com",
+			"healthgrades.com",
+			"hgimg.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Health On the Net Foundation",
+		"notes"			:	"CH is Switzerland",
+		"country"		:	"CH",
+		"domains"		:	[
+			"hon.ch",
+			"honcode.ch"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Hearst",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"hearst.com",
+			"hearst.com.cn"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Hi Media Group",
+		"notes"			:	"Acquired Adlinkgroup, Sedo",
+		"country"		:	"FR",
+		"domains"		:	[
+			"adlinkgroup.net",
+			"himediagroup.com",
+			"sedo.com",
+			"sedoparking.com"
+		],
+		"subsidiaries"	:	[
+			"Adlinkgroup",
+			"Sedo"
+		]
+	},
+	{
+		"organization"	:	"Hospital Corporation of America",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"ehc.com",
+			"hcahealthcare.com",
+			"medcity.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"IAC",
+		"notes"			:	"more @ http://iac.com/brands",
+		"country"		:	"US",
+		"domains"		:	[
+			"about.com",
+			"ask.com",
+			"askjeeves.com",
+			"chemistry.com",
+			"citygrid.com",
+			"collegehumor.com",
+			"dailyburn.com",
+			"dictionary.com",
+			"iac.com",
+			"match.com",
+			"sfdict.com",
+			"thedailybeast.com",
+			"tqn.com",
+			"vimeo.com"
+		],
+		"subsidiaries"	:	[
+			"About.com",
+			"Ask Jeeves",
+			"Ask.com",
+			"Dictionary.com",
+			"Vimeo"
+		]
+	},
+	{
+		"organization"	:	"Improve Digital",
+		"notes"			:	"",
+		"country"		:	"NL",
+		"domains"		:	[
+			"360yield.com",
+			"improvedigital.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"INFOnline",
+		"notes"			:	"",
+		"country"		:	"DE",
+		"domains"		:	[
+			"infonline.de",
+			"ioam.de"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Inform",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"helloreverb.com",
+			"inform.com",
+			"mochila.com",
+			"newsinc.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Insight Express",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"insightexpress.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Integral Ad Science",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"adsafeprotected.com",
+			"iasds01.com",
+			"integralads.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"International Business Machines",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"cmcore.com",
+			"coremetrics.com",
+			"ibm.com",
+			"unica.com",
+			"weather.com",
+			"weatherunderground.com"
+		],
+		"subsidiaries"	:	[
+			"IBM",
+			"The Weather Company",
+			"Unica",
+			"Watson Ads"
+		]
+	},
+	{
+		"organization"	:	"iPerceptions",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"iperceptions.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"iPinYou",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"ipinyou.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"IPONWEB",
+		"notes"			:	"",
+		"country"		:	"UK",
+		"domains"		:	[
+			"bidswitch.net",
+			"iponweb.com"
+		],
+		"subsidiaries"	:	[
+			"Bidswitch"
+		]
+	},
+	{
+		"organization"	:	"iResearch Consulting Group",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"iresearchchina.com",
+			"irs01.com",
+			"irs01.net",
+			"irs09.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"iTV Media",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"china-netwave.com",
+			"uitv.com",
+			"uitv.com.cn"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"JD.com",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"3.cn",
+			"360buy.com",
+			"360buyimg.com",
+			"jd.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"jQuery Foundation",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"jquery.com",
+			"jquery.org"
+		],
+		"subsidiaries"	:	[
+			"jQuery"
+		]
+	},
+	{
+		"organization"	:	"Kantar",
+		"notes"			:	"",
+		"country"		:	"UK",
+		"domains"		:	[
+			"dynamiclogic.com",
+			"kantar.com",
+			"lightspeedresearch.com",
+			"millwardbrown.com",
+			"questionmarket.com"
+		],
+		"subsidiaries"	:	[
+			"Lightspeed Research",
+			"Millward Brown Digital"
+		]
+	},
+	{
+		"organization"	:	"Kindred Healthcare",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"kindred.com",
+			"kindredhealthcare.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Knet",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"knet.cn"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Knownsec",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"anquan.org",
+			"knownsec.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Krux Digital",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"krux.com",
+			"krxd.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Listrak",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"listrak.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Litmus",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"emltrk.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"LiveIntent",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"liadm.com",
+			"licasd.com",
+			"mojn.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Lotame",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"crwdcntrl.net",
+			"lotame.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Magnetic Media Online",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"cognitivematch.com",
+			"domdex.com",
+			"magnetic.com",
+			"mybuys.com",
+			"veruta.com"
+		],
+		"subsidiaries"	:	[
+			"Magnetic Media Online",
+			"MyBuys"
+		]
+	},
+	{
+		"organization"	:	"Market Supervision Administration of Shenzhen Municipality",
+		"notes"			:	"Government agency.",
+		"country"		:	"CN",
+		"domains"		:	[
+			"ebs.gov.cn"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Marketo",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"marketo.com",
+			"marketo.net",
+			"mktoresp.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"MaxPoint Interactive",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"maxpointinteractive.com",
+			"maxusglobal.com",
+			"mxptint.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"MediaMath",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"mathtag.com",
+			"mediamath.com",
+			"pixel.mathtag.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"MediaAV",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"mediav.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Medseek",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"influencehealth.com",
+			"medseek.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Meetrics",
+		"notes"			:	"",
+		"country"		:	"DE",
+		"domains"		:	[
+			"meetrics.com",
+			"meetrics.de",
+			"meetrics.net",
+			"mxcdn.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Menlo Technologies",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"menlotechnologies.cn",
+			"mlt01.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Miaozhen Systems",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"miaozhen.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Microsoft",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"aspnetcdn.com",
+			"bing.com",
+			"bizo.com",
+			"bizographics.com",
+			"gfx.ms",
+			"linkedin.com",
+			"live.com",
+			"microsoft.com",
+			"msads.net",
+			"msn.com",
+			"s-microsoft.com",
+			"s-msn.com",
+			"s-msn.com"
+		],
+		"subsidiaries"	:	[
+			"Bing",
+			"Bizo",
+			"LinkedIn"
+		]
+	},
+	{
+		"organization"	:	"Moat",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"moat.com",
+			"moatads.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Mode Media",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"glam.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Monetate",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"monetate.com",
+			"monetate.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Monotype Imaging",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"fonts.com",
+			"fonts.net",
+			"monotype.com",
+			"monotypeimaging.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Mozilla",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"mozilla.net",
+			"mozilla.org"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Nativo",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"nativo.net",
+			"postrelease.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"NetEase",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"126.net",
+			"127.net",
+			"163.com",
+			"lofter.com",
+			"netease.com",
+			"youdao.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"NetIQ",
+		"notes"			:	"Acquired WebTrends",
+		"country"		:	"US",
+		"domains"		:	[
+			"netiq.com",
+			"webtrends.com",
+			"webtrendslive.com"
+		],
+		"subsidiaries"	:	[
+			"WebTrends"
+		]
+	},
+	{
+		"organization"	:	"Neustar",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"adadvisor.net",
+			"agkn.com",
+			"neustar.biz"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"New Relic",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"newrelic.com",
+			"nr-data.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Nielsen Online",
+		"notes"			:	"bought exelate in 2015",
+		"country"		:	"US",
+		"domains"		:	[
+			"exelate.com",
+			"exelator.com",
+			"imrworldwide.com",
+			"nielsen-online.com",
+			"nielsen.com",
+			"vizu.com"
+		],
+		"subsidiaries"	:	[
+			"Vizu",
+			"exelate"
+		]
+	},
+	{
+		"organization"	:	"nugg.ad",
+		"notes"			:	"",
+		"country"		:	"DE",
+		"domains"		:	[
+			"nuggad.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Omnicom Media Group",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"accuenmedia.com",
+			"omnicomgroup.com",
+			"omnicommediagroup.com",
+			"p-td.com"
+		],
+		"subsidiaries"	:	[
+			"Accuen"
+		]
+	},
+	{
+		"organization"	:	"OpenX",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"openx.com",
+			"openx.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Optimizely",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"optimizely.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Oracle",
+		"notes"			:	"Blue Kai was acquired by Oracle; 20160125: AddThis goes to Oracle",
+		"country"		:	"US",
+		"domains"		:	[
+			"addthis.com",
+			"addthisedge.com",
+			"bkrtx.com",
+			"bluekai.com"
+		],
+		"subsidiaries"	:	[
+			"AddThis",
+			"Blue Kai"
+		]
+	},
+	{
+		"organization"	:	"Outbrain",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"outbrain.com",
+			"scribit.com",
+			"sphere.com",
+			"verticalacuity.com",
+			"visualrevenue.com"
+		],
+		"subsidiaries"	:	[
+			"Sphere"
+		]
+	},
+	{
+		"organization"	:	"OwnerIQ",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"dijipop.com",
+			"owneriq.com",
+			"owneriq.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"PC Group",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"3conline.com",
+			"pcauto.com.cn",
+			"pcgames.com.cn",
+			"pconline.com.cn"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Perion",
+		"notes"			:	"Perion acquired undertone which acquired Upfront Media 201407",
+		"country"		:	"US",
+		"domains"		:	[
+			"legolas-media.com",
+			"thinkupfront.com",
+			"undertone.com"
+		],
+		"subsidiaries"	:	[
+			"Undertone",
+			"Upfront Media"
+		]
+	},
+	{
+		"organization"	:	"Pinterest",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"pinimg.com",
+			"pinterest.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Progress Software",
+		"notes"			:	"Acquired Telerik",
+		"country"		:	"US",
+		"domains"		:	[
+			"progress.com",
+			"telerik.com",
+			"telerikstatic.com"
+		],
+		"subsidiaries"	:	[
+			"Telerik"
+		]
+	},
+	{
+		"organization"	:	"PubMatic",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"pubmatic.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"PulsePoint",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"contextweb.com",
+			"pulsepoint.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Pulsepoint",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"displaymarketplace.com",
+			"pulsepoint.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Quantcast",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"quantcast.com",
+			"quantcount.com",
+			"quantserve.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Radium One",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"gwallet.com",
+			"radiumone.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"ReadSpeaker",
+		"notes"			:	"",
+		"country"		:	"NL",
+		"domains"		:	[
+			"readspeaker.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Resonate",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"reson8.com",
+			"resonateinsights.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"RichRelevance",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"richrelevance.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Rocketfuel",
+		"notes"			:	"Acquired x+1, 2014",
+		"country"		:	"US",
+		"domains"		:	[
+			"rfihub.com",
+			"rocketfuel.com",
+			"ru4.com",
+			"xplusone.net"
+		],
+		"subsidiaries"	:	[
+			"x+1"
+		]
+	},
+	{
+		"organization"	:	"Rubicon Project",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"rubiconproject.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Samsung",
+		"notes"			:	"",
+		"country"		:	"CA",
+		"domains"		:	[
+			"adgear.com",
+			"adgrx.com",
+			"bloom-hq.com",
+			"samsung.com"
+		],
+		"subsidiaries"	:	[
+			"AdGear"
+		]
+	},
+	{
+		"organization"	:	"Scorpion Internet Marketing",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"scorpioncms.com",
+			"scorpiondesign.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Sellpoints",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"sellpoint.net",
+			"sellpoints.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Semasio",
+		"notes"			:	"",
+		"country"		:	"DE",
+		"domains"		:	[
+			"semasio.com",
+			"semasio.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Shanghai 2345 Network Technology",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"2345.com",
+			"50bang.org"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Share This",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"sharethis.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Sharethrough",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"joinvan.com",
+			"sharethrough.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Signal Digital",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"signal.co",
+			"thebrighttag.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"simpli.fi",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"simpli.fi"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Sina",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"sina.com",
+			"sina.com.cn",
+			"sinacdn.com",
+			"sinaimg.cn",
+			"sinajs.cn",
+			"sinajs.cn",
+			"weibo.com"
+		],
+		"subsidiaries"	:	[
+			"Weibo"
+		]
+	},
+	{
+		"organization"	:	"Siteimprove",
+		"notes"			:	"",
+		"country"		:	"DK",
+		"domains"		:	[
+			"siteimprove.com",
+			"siteimproveanalytics.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Sizmek",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"mediamind.com",
+			"serving-sys.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Smart Ad Server",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"smartadserver.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"SOASTA",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"mpstat.us"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Sogou",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"sogou.com",
+			"sogoucdn.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Sohu",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"ad-plus.cn",
+			"itc.cn",
+			"sohu.com",
+			"sohu.com.cn"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Sovrn",
+		"notes"			:	"split off from federated media, taking lijit",
+		"country"		:	"US",
+		"domains"		:	[
+			"lijit.com",
+			"sovrn"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"SpotXchange",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"spotxcdn.com",
+			"spotxchange.com"
+		],
+		"subsidiaries"	:	[
+			"SpotX",
+			"Spot X Change",
+			"SpotX Change"
+		]
+	},
+	{
+		"organization"	:	"StackPath",
+		"notes"			:	"used to be maxcdn",
+		"country"		:	"US",
+		"domains"		:	[
+			"bootstrapcdn.com",
+			"maxcdn.com",
+			"stackpath.com"
+		],
+		"subsidiaries"	:	[
+			"BootstrapCDN",
+			"MaxCDN"
+		]
+	},
+	{
+		"organization"	:	"Statcounter",
+		"notes"			:	"",
+		"country"		:	"IE",
+		"domains"		:	[
+			"statcounter.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Stericycle",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"inquicker.com",
+			"stericycle.com"
+		],
+		"subsidiaries"	:	[
+			"InQuicker"
+		]
+	},
+	{
+		"organization"	:	"Ströer",
+		"notes"			:	"",
+		"country"		:	"DE",
+		"domains"		:	[
+			"m6r.eu",
+			"mbr-targeting.com",
+			"stroeer.de"
+		],
+		"subsidiaries"	:	[
+			"mbr targeting"
+		]
+	},
+	{
+		"organization"	:	"Suning Corporation",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"cnsuning.com",
+			"suning.cn"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Switch Concepts",
+		"notes"			:	"",
+		"country"		:	"UK",
+		"domains"		:	[
+			"switchads.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Taboola",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"perfectmarket.com",
+			"taboola.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"TapAd",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"tapad.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Teads",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"beead.fr",
+			"beezik.com",
+			"ebuzzing.com",
+			"nomao.com",
+			"promodigital.it",
+			"teads.tv"
+		],
+		"subsidiaries"	:	[
+			"Nomao",
+			"PromoDigital"
+		]
+	},
+	{
+		"organization"	:	"Tealium",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"tealium.com",
+			"tiqcdn.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"TellApart",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"tellapart.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Tencent",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"gtimg.cn",
+			"gtimg.com",
+			"idqqimg.com",
+			"paipai.com",
+			"paipaiimg.com",
+			"paipaiimg.com",
+			"qlogo.cn",
+			"qpic.cn",
+			"qq.com",
+			"tencent.com",
+			"yeswan.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Terren Technology Development Company",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"webterren.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"The ADEX",
+		"notes"			:	"",
+		"country"		:	"DE",
+		"domains"		:	[
+			"theadex.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"The E.W. Scripps Company",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"bizrate.com",
+			"connexity.net",
+			"cracked.com",
+			"midroll.com",
+			"newsy.com",
+			"shopzilla.com",
+			"uswitch.com",
+			"weathersphere.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"The Trade Desk",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"adsrvr.org",
+			"thetradedesk.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Tout",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"tout.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"TownNews.com",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"townnews.com",
+			"townnews365.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Tradedoubler",
+		"notes"			:	"",
+		"country"		:	"SE",
+		"domains"		:	[
+			"adnologies.com",
+			"heias.com",
+			"tradedoubler.com",
+			"tradedoubler.se"
+		],
+		"subsidiaries"	:	[
+			"HEIAS"
+		]
+	},
+	{
+		"organization"	:	"Tribal Fusion",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"tribalfusion.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"TRUSTe",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"truste.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Trusted Shops",
+		"notes"			:	"",
+		"country"		:	"DE",
+		"domains"		:	[
+			"trustedshops.com",
+			"trustedshops.eu"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Tube Mogul",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"tubemogul.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Turn",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"turn.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Twitter",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"twimg.com",
+			"twitter.com",
+			"ads-twitter.com",
+			"t.co"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"United Internet Media",
+		"notes"			:	"",
+		"country"		:	"DE",
+		"domains"		:	[
+			"1und1.de",
+			"gmx.net",
+			"tifbs.net",
+			"united-internet-media.de",
+			"web.de"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Ve Interactive",
+		"notes"			:	"",
+		"country"		:	"UK",
+		"domains"		:	[
+			"veinteractive.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Vibrant Media",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"intellitxt.com",
+			"vibrantmedia.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Videology Group",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"tidaltv.com",
+			"videologygroup.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Weather.com.cn",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"weather.com.cn"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"WebMD",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"medscape.com",
+			"webmd.com"
+		],
+		"subsidiaries"	:	[
+			"Medscape"
+		]
+	},
+	{
+		"organization"	:	"Webtrekk",
+		"notes"			:	"",
+		"country"		:	"DE",
+		"domains"		:	[
+			"wbtrk.net",
+			"webtrekk.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Wikimedia Foundation",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"wikimedia.org"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Wingify",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"visualwebsiteoptimizer.com",
+			"vwo.com",
+			"wingify.com"
+		],
+		"subsidiaries"	:	[
+			"Visual Website Optimizer"
+		]
+	},
+	{
+		"organization"	:	"WPP",
+		"notes"			:	"Owns many properties, inc. XAXIS; plista aquired 2014 by groupm, which is WPP",
+		"country"		:	"UK",
+		"domains"		:	[
+			"mookie1.com",
+			"plista.com",
+			"safecount.net",
+			"themig.com"
+		],
+		"subsidiaries"	:	[
+			"GroupM",
+			"Media Innovation Group",
+			"Safecount",
+			"plista"
+		]
+	},
+	{
+		"organization"	:	"Yadro",
+		"notes"			:	"Widely classified as malware",
+		"country"		:	"RU",
+		"domains"		:	[
+			"yadro.ru"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Yahoo",
+		"notes"			:	"",
+		"country"		:	"US",
+		"domains"		:	[
+			"bluelithium.com",
+			"brightroll.com",
+			"btrll.com",
+			"interclick.com",
+			"tumblr.com",
+			"yahoo.com",
+			"yieldmanager.com",
+			"yimg.com"
+		],
+		"subsidiaries"	:	[
+			"BlueLithium",
+			"BrightRoll",
+			"Flickr",
+			"Interclick",
+			"Tumblr",
+			"Yahoo!"
+		]
+	},
+	{
+		"organization"	:	"Yandex",
+		"notes"			:	"",
+		"country"		:	"RU",
+		"domains"		:	[
+			"yandex.ru"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Yieldlab",
+		"notes"			:	"",
+		"country"		:	"DE",
+		"domains"		:	[
+			"yieldlab.de",
+			"yieldlab.net"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Youku Tudou",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"tdimg.com",
+			"tudou.com",
+			"tudouui.com",
+			"ykimg.com",
+			"youku.com"
+		],
+		"subsidiaries"	:	[
+		]
+	},
+	{
+		"organization"	:	"Zamplus Advertising",
+		"notes"			:	"",
+		"country"		:	"CN",
+		"domains"		:	[
+			"chinauma.net",
+			"gtags.net",
+			"zamplus.com"
+		],
+		"subsidiaries"	:	[
+		]
+	}
+]
