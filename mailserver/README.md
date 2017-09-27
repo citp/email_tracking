@@ -1,5 +1,3 @@
-Mail server for thesis project.
-
 Consists of an SMTP server, web server, and MySQL database.
 
 ## Prerequisites
