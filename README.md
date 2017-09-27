@@ -1,7 +1,8 @@
 ## I never signed up for this! Privacy implications of email tracking
 
-Authors: Steven Englehardt (@englehardt), Jeffrey Han (@itdelatrisu), Arvind
-Narayanan (@randomwalker)
+**Authors:** Steven Englehardt ([@englehardt](https://github.com/englehardt)),
+Jeffrey Han ([@itdelatrisu](https://github.com/itdelatrisu)),
+and Arvind Narayanan ([@randomwalker](https://github.com/randomwalker))
 
 The paper is available [here](https://senglehardt.com/papers/pets2018_email_tracking.pdf).
 
