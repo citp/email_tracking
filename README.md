@@ -1,16 +1,15 @@
 ## I never signed up for this! Privacy implications of email tracking
 
-**Authors:** Steven Englehardt ([@englehardt](https://github.com/englehardt)),
-Jeffrey Han ([@itdelatrisu](https://github.com/itdelatrisu)),
-and Arvind Narayanan ([@randomwalker](https://github.com/randomwalker))
-
-The paper is available [here](https://senglehardt.com/papers/pets2018_email_tracking.pdf).
-
 This is a public code and data release for the research paper "I never signed
 up for this! Privacy implications of email tracking.", which will appear at
 PETS 2018. Portions of the code for this project borrow heavily from Jeffrey's
 undergraduate senior thesis, available [here](https://github.com/itdelatrisu/thesis).
 
+**Authors:** Steven Englehardt ([@englehardt](https://github.com/englehardt)),
+Jeffrey Han ([@itdelatrisu](https://github.com/itdelatrisu)),
+and Arvind Narayanan ([@randomwalker](https://github.com/randomwalker))
+
+**Paper:** available [here](https://senglehardt.com/papers/pets2018_email_tracking.pdf).
 
 ## Components
 Core components:
@@ -23,6 +22,9 @@ Core components:
 * `analysis/` - *Coming soon*
 
 ## Code Usage
+
+Additional documentation is available in the `README` of each component
+subdirectory.
 
 ### System Requirements
 * The framework is fully tested only on Ubuntu 16.04, and requires Java and
@@ -65,4 +67,5 @@ other than the mail server's machine, host records (A, CNAME) must also be set.
 
 ## Funding
 
-*TODO*
+This project was funded by NSF  Grant  CNS  1526353, a research grant
+from Mozilla, and Amazon AWS Cloud Credits for Research.
