@@ -13,9 +13,10 @@ and Arvind Narayanan ([@randomwalker](https://github.com/randomwalker))
 
 ## Components
 Core components:
-* `crawler_emails/` - A web crawler to simulate email views and link clicks.
-* `crawler_mailinglists/` - A web crawler to find and submit mailing list
-    sign-ups.
+* `crawler_emails/` - A web crawler, built on [OpenWPM](https://github.com/citp/OpenWPM),
+    to simulate email views and link clicks.
+* `crawler_mailinglists/` - A web crawler, built on [OpenWPM](https://github.com/citp/OpenWPM),
+    to find and submit mailing list sign-ups.
 * `email-tracking-tester/` - A tool to test the privacy properties of a mail
     client.
 * `mailserver/` - The mail server used to collect our corpus of emails.
