@@ -9,7 +9,7 @@ undergraduate senior thesis, available [here](https://github.com/itdelatrisu/the
 Jeffrey Han ([@itdelatrisu](https://github.com/itdelatrisu)),
 and Arvind Narayanan ([@randomwalker](https://github.com/randomwalker))
 
-**Paper:** available [here](https://senglehardt.com/papers/pets2018_email_tracking.pdf).
+**Paper:** available [here](https://senglehardt.com/papers/pets18_email_tracking.pdf).
 
 ## Components
 Core components:
