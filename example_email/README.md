@@ -5,9 +5,9 @@ The following email is an example of a email with a relatively high number of
 embedded third-party resources. In total the email contains resources from 29
 third-party domains across 24 third-party organizations.
 
-![Image of rendered email](#image)
+![Image of rendered email](/living_social_email_rendered.png?raw=true)
 
-[[Download HTML]](https://github.com/citp/email_tracking/example_email/living_social_1492521826493.html)
+[[Download HTML]](https://github.com/citp/email_tracking/blob/master/example_email/living_social_1492521826493.html)
 
 Summary of third parties:
 * **Parties receiving an MD5 hash of the user’s email address:**
